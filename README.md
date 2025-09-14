@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/Salar-pr">Salar</a>
+  Made with ❤️ by <a href="https://github.com/Salar-pr">Salar</a>-<a href="https://github.com/AmirabbasRouintan">ixi</a>
 </p>
