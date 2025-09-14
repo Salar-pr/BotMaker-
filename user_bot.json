@@ -1,0 +1,43 @@
+{
+    "template_name": "Eco",
+    "active_template": "salarshop",
+    "commands": [
+        {
+            "name": "products",
+            "response": [
+                {
+                    "ProductName": "Classic T-Shirt",
+                    "Price": "15.99",
+                    "SKU": "SKU-TEE-001",
+                    "Description": "A comfortable 100% cotton t-shirt.",
+                    "Stock": "150"
+                },
+                {
+                    "ProductName": "Denim Jeans",
+                    "Price": "49.5",
+                    "SKU": "SKU-JNS-005",
+                    "Description": "Stylish and durable blue denim jeans.",
+                    "Stock": "80"
+                },
+                {
+                    "ProductName": "Running Shoes",
+                    "Price": "75",
+                    "SKU": "SKU-SHOE-012",
+                    "Description": "Lightweight shoes perfect for running.",
+                    "Stock": "120"
+                },
+                {
+                    "ProductName": "Leather Wallet",
+                    "Price": "25",
+                    "SKU": "SKU-WLT-003",
+                    "Description": "A genuine leather wallet with multiple compartments.",
+                    "Stock": "200"
+                }
+            ]
+        },
+        {
+            "name": "search",
+            "response": "[Auto-handled search]"
+        }
+    ]
+}
